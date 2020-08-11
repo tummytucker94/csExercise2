@@ -9,7 +9,7 @@ Start
 
 1) Get an integer value for "num1";
 2) Get an integer value for "num2";
-3) Set the integer value of "sum" to "num1 + num2".
+3) Set the integer value of "sum" to the arithmetic expression "num1 + num2".
 4) Print the value of "sum".
 
 Stop
